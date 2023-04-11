@@ -1,0 +1,14 @@
+{
+  "name": "oop-calculator",
+  "version": "1.0.0",
+  "description": "OOP Calculator project to practice OOP coding in JS.",
+  "main": "app.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "author": "Stephanie Jones",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^29.5.0"
+  }
+}
